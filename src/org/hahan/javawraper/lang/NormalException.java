@@ -1,4 +1,4 @@
-package me.javawraper.lang;
+package org.hahan.javawraper.lang;
 
 /**
  * NormalException主要关注异常信息投递给谁

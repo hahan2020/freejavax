@@ -1,4 +1,4 @@
-package me.javawraper.lang.result;
+package org.hahan.javawraper.lang.result;
 
 public class Result2<T1, T2> {
 	private T1 result = null;

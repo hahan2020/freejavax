@@ -1,4 +1,4 @@
-package me.javawraper.util;
+package org.hahan.javawraper.util;
 
 import java.io.Serializable;
 

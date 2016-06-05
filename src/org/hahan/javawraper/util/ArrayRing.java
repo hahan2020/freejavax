@@ -1,6 +1,6 @@
-package me.javawraper.util;
+package org.hahan.javawraper.util;
 
-import me.javawraper.lang.result.Equals;
+import org.hahan.javawraper.lang.result.Equals;
 
 public class ArrayRing<E> implements Ring<E> {
 

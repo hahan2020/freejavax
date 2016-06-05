@@ -1,4 +1,4 @@
-package me.javawraper.lang.result;
+package org.hahan.javawraper.lang.result;
 
 public class Result3<T1, T2, T3> extends Result2<T1, T2> {
 	private T3 result3 = null;

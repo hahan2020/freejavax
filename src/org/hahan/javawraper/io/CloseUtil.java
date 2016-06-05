@@ -1,4 +1,4 @@
-package me.javawraper.io;
+package org.hahan.javawraper.io;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;

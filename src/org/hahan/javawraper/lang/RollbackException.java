@@ -1,4 +1,4 @@
-package me.javawraper.lang;
+package org.hahan.javawraper.lang;
 
 /**
  * 当异常发生在事务范围内时，事务需要回滚。

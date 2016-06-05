@@ -1,4 +1,4 @@
-package me.javawraper.net.http;
+package org.hahan.javawraper.net.http;
 
 public enum HttpCode {
 	CODE100(100),

@@ -1,4 +1,4 @@
-package me.javawraper.net.http;
+package org.hahan.javawraper.net.http;
 
 public enum HttpMethod {
 	Get("Get"), Post("Post", true), Head("Head"), Put("Put"), Trace("Trace"), Options("Options"), Delete("Delete"),

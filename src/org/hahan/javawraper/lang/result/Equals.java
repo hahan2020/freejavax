@@ -1,4 +1,4 @@
-package me.javawraper.lang.result;
+package org.hahan.javawraper.lang.result;
 
 public class Equals {
 

@@ -1,4 +1,4 @@
-package me.javawraper.lang;
+package org.hahan.javawraper.lang;
 
 /**
  * NoticeException用于业务流程终极跳转，

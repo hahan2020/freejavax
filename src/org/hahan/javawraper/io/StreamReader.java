@@ -1,12 +1,12 @@
-package me.javawraper.io;
+package org.hahan.javawraper.io;
 
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 
-import me.javawraper.util.ArrayRing;
-import me.javawraper.util.ArrayWraper;
-import me.javawraper.util.Ring;
+import org.hahan.javawraper.util.ArrayRing;
+import org.hahan.javawraper.util.ArrayWraper;
+import org.hahan.javawraper.util.Ring;
 
 public class StreamReader {
 

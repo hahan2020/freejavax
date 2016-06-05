@@ -1,7 +1,7 @@
 /**
  * 
  */
-package me.javawraper.lang.result;
+package org.hahan.javawraper.lang.result;
 
 public class Result6<T1, T2, T3, T4, T5, T6> extends Result5<T1, T2, T3, T4, T5> {
 

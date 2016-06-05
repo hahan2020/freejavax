@@ -1,4 +1,4 @@
-package me.javawraper.lang.result;
+package org.hahan.javawraper.lang.result;
 
 public class Result5<T1, T2, T3, T4, T5> extends Result4<T1, T2, T3, T4> {
 
